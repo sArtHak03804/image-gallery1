@@ -1,9 +1,9 @@
 <h1>Image Gallery</h1>
 Welcome to the Image Gallery repository! This repository hosts a collection of stunning images for you to browse and enjoy. Whether you're a photography enthusiast or simply looking for some visual inspiration, this gallery has something for everyone.
-
-##[Live Preview](https://raw.githack.com/sArtHak03804/image-gallery1/main/index.html).
-
 ---
+[Live Preview](https://raw.githack.com/sArtHak03804/image-gallery1/main/index.html).
+
+
  **langauages_used**</br> </br> 
 [![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=orange)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
