@@ -7,7 +7,7 @@ Welcome to the Image Gallery repository! This repository hosts a collection of s
 [![CSS](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ---
-![Website screenshot](logo.png)
+![Website screenshot]([logo.png](https://raw.githack.com/sArtHak03804/image-gallery1/main/index.html))
 ## Table of Contents
 
 - [Introduction](#introduction)
